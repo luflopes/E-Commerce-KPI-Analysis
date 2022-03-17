@@ -1,7 +1,7 @@
 # E-Commerce KPI Analysis With Python And SQL
  **Made by Lucas Lopes - February 9, 2022**
 ## Definition of the business problem
-<img src='https://business.trustedshops.it/hubfs/1-TS_B2B/content/IT/20200312-coronavirus-IT/laptop-online-shopping.png'><br>
+<img align = "center" src='https://business.trustedshops.it/hubfs/1-TS_B2B/content/IT/20200312-coronavirus-IT/laptop-online-shopping.png'><br>
  
 <font size="3"> Our group operates in more than 20 cities, reaching tens of thousands of orders per day. One of main missions as a Catalog Team is to provide to our customers the best experience possible, making sure they see all the important information on the app and get delivered all they asked for, even not having direct contact with them!</font><br><br>
 <font size="3">
