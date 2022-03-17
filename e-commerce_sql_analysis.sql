@@ -4,7 +4,7 @@
 
 /* Creating the database */
 
-CREATE DATABASE db_cornershop;
+CREATE DATABASE Your-DataBase-Name;
 
 /* Selecting the created database for the following operations to be performed on it */
 
